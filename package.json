@@ -1,8 +1,12 @@
 {
   "name": "react-placeimg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component for adding placeimg(https://placeimg.com) functionality",
   "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chakas/react-placeimg.git"
+  },
   "peerDependencies": {
     "react": "^16.8.6"
   },

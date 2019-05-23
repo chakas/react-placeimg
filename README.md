@@ -1,6 +1,11 @@
 # react-placeimg
 React component for adding place holder images into your app
 
+**Installation:**
+`npm i --save react-placeimg`
+
+**Usage:**
+`import PlaceImg from "react-placeimg";`
 ```
 <PlaceImg 
     width="800"
